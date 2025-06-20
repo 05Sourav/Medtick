@@ -1,16 +1,15 @@
-# medtick
+⏰ MedTick - Your Smart Medication Reminder App
 
-A new Flutter project.
+**MedTick** is a Flutter-based medication reminder app that helps users manage their prescriptions and never miss a dose. Inspired by Medisafe, it's designed to be clean, reliable, and easy to use for all age groups.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🩺 Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- 💊 Add and manage daily medications with dose and time
+- 🔔 Timely notifications and alerts for every medicine
+- 📅 Calendar view to track medication history
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
